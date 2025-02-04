@@ -1,9 +1,7 @@
 ## Ejercicio -1 [Aura Pico] cc: 1097498480 👨‍🦯
 
 ##  Temperature Conversion
-## Create a function that converts temperature from Celsius to Fahrenheit.
-# Modify the function to also convert Fahrenheit to Celsius. 
-# Ensure the function can handle invalid inputs gracefully
+## Create a function that converts temperature from Celsius to Fahrenheit.Modify the function to also convert Fahrenheit to Celsius. Ensure the function can handle invalid inputs gracefully
 
 
 def temperatura_c (grados):
