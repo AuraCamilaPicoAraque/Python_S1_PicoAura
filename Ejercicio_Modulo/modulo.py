@@ -1,6 +1,6 @@
 ## Ejercicio - MODULOS [Aura Pico] cc: 1097498480 👨‍🦯
 
-from programa import *
+from modulo import *
 
 nombres = [
     ["Adrián"],
