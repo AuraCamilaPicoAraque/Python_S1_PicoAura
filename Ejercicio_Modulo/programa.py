@@ -1,7 +1,7 @@
 ## Ejercicio - MODULOS [Aura Pico] cc: 1097498480 👨‍🦯
 
 import modulo
-## Sirve para que tengan una coorelacion el modulo.py y yo pueda utilizar las varibles de modulo.(nombre) () 
+## Sirve para que tengan una coorelacion el modulo.py y yo pueda utilizar las variables de la funcion modulo.(nombre) () 
 
 booleanito = True
 while booleanito ==True:
@@ -16,6 +16,7 @@ while booleanito ==True:
     
     opc = int(input(":"))
 
+## Lo que hago aqui es poner las variables de [def (nombre) ()] que indica lo que nosotros como usuario vamos a seleccionar 
 
     if opc == 1:
         modulo.agregar()
