@@ -72,6 +72,7 @@ apellidos = [
     ["Diaz", "Contreras"]
 ]
 
+## Aqui ponemos las funciones que nos pide el usuario sea ai si queremos editar o ver un estudiante
 
 def agregar ():
         n1=input("ingrese el primer nombre del estudiante")
@@ -95,7 +96,8 @@ def ver ():
             c+=1
 
 def edit ():
-            
+
+     ## porque coloco el ver () esto porque ya tenemos una funcion que nos muestra la lista lo que nos facilita el estar copiando y pegando
             ver ()
 
             edt=int(input("Ingrese el estudiante que quiere editar (el numero de la lista):  "))
