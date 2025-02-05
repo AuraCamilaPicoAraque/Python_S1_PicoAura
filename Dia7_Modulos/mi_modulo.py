@@ -16,3 +16,17 @@ def unirListas(a , b):
 def multiRestar (a, b):
     resultado = multiplicar ( a, b) - ( a- b)
     return resultado
+
+def recorrerLista (a , b):
+    for i in range (len(a)):
+        print("Estudiantes # " , i + 1 , ":" , a (i) )
+
+def obtenerEstudiantes ( a , b ):
+    return a [b -1]
+
+def modificarEstudiantes (a , b , c) :
+    a [b-1] = c
+    if (a[b-1]):
+        return True
+    else:
+        return False
