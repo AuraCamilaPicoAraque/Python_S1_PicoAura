@@ -22,20 +22,20 @@ while booleanito ==True:
         modulo.agregar()
 
     elif opc == 2 :
-         modulo.ver ()
+        modulo.ver ()
 
     elif opc == 3 :
-         modulo.edit ()
+        modulo.edit ()
         
     elif opc == 4 :
-         modulo.eli ()
-     
+        modulo.eli ()
+
     elif opc == 5 :
         modulo.exit ()
         break
     
     else:
         print("Opción incorrecta, intenta de nuevo.")
-         
-         
+        
+        
 ## Ejercicio - MODULOS [Aura Pico] cc: 1097498480 👨‍🦯
