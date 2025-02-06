@@ -1,0 +1,98 @@
+{
+    "1": {
+        "nombre": "S1",
+        "plataforma": "Windows",
+        "cantInte": 5,
+        "Region" : "Colombia",
+        "skins": [
+            "Seraphine",
+            "Varus",
+            "Braum",
+            "Mordekaiser",
+            "Warwick"
+        ],
+        "Posiciones": [
+            "Top",
+            "JUNGLA",
+            "MID",
+            "ADC",
+            "SUPPORT"
+        ],
+        "integrantes": [
+            {
+                "nombre": "Pedro",
+                "apellido": "Gomez",
+                "edad": 24
+            },
+            {
+                "nombre": "Aura",
+                "apellido": "Pico",
+                "edad": 16
+            },
+            {
+                "nombre": "Carlos",
+                "apellidos": "Araque",
+                "edad": 19
+            },
+            {
+                "nombre": "David",
+                "apellidos": "Rodriguez",
+                "edad": 17
+            },
+            {
+                "nombre": "Pinke",
+                "apellidos": "Pie",
+                "edad": 13
+            }
+        ]
+    },
+
+
+    "2": {
+        "nombre": "T1",
+        "plataforma": "Windows",
+        "cantInte": 5,
+        "Region" : "Japon",
+        "skins": [
+            "Sett",
+            "Caitlyn",
+            "Ekko",
+            "Poppy",
+            "Cho'gath"
+        ],
+        "Posiciones": [
+            "Top",
+            "JUNGLA",
+            "MID",
+            "ADC",
+            "SUPPORT"
+        ],
+        "integrantes": [
+            {
+                "nombre": "Faker",
+                "apellido": "hyeok",
+                "edad": 25
+            },
+            {
+                "nombre": "Kera",
+                "apellido": "seok",
+                "edad": 19
+            },
+            {
+                "nombre": "Teddy",
+                "apellidos": "seong",
+                "edad": 21
+            },
+            {
+                "nombre": "Oner",
+                "apellidos": "joon",
+                "edad": 21
+            },
+            {
+                "nombre": "cuzz",
+                "apellidos": "woo-chan",
+                "edad": 23
+            }
+        ]
+    }
+}
