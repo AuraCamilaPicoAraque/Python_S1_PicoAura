@@ -49,3 +49,15 @@ Si da la casualidad de que estas en windows y no te deja ejecutar los archivos .
 | Día 6 | Trabajo con bucles `for` y `while`.   |
 | Día 7 | Introducción a los módulos y cómo utilizarlos en Python.  |
 | Día 9 | Repaso de diccionarios y ejercicios de manipulación de datos.  |
+
+
+## Explicación github.
+
+Para poder subir a la nube este repositorio:
+
+* 1-  Debemos iniciar con el  ` git init `  = ¿Porque? __ pues iniciamos un git vaco para que podamos subirlo al local 
+
+
+## Repositorio...
+
+Este repositorio fue hecho y desarrollado por [ AuraCamilaPicoAraque ](https://github.com/AuraCamilaPicoAraque)
